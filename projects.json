@@ -1,5 +1,15 @@
 [
   {
+    "title": "Anime Episode Tracker",
+    "repo": "hardikshrimali1510-collab/anime-episode-tracker",
+    "url": "https://github.com/hardikshrimali1510-collab/anime-episode-tracker",
+    "student": "hardikshrimali1510-collab",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "IMCA Sem 5 Linux Project.",
+    "date": "2026-11-02"
+  },
+  {
     "title": "Bunk Calculator",
     "repo": "Yagna192006/bunk-calculator",
     "url": "https://github.com/Yagna192006/bunk-calculator",
@@ -8,6 +18,16 @@
     "tech": "Bash",
     "description": "A Linux Bash attendance tracker and bunk calculator that analyzes subject-wise attendance using awk and alerts when attendance falls below 75%.Shell script attendance tracking system with analytics, bunk capacity calculations, automated reports, and cron reminders.",
     "date": "2026-10-30"
+  },
+  {
+    "title": "Deadline Radar",
+    "repo": "ambaliyalarohan-ctrl/Deadline-Radar",
+    "url": "https://github.com/ambaliyalarohan-ctrl/Deadline-Radar",
+    "student": "ambaliyalarohan-ctrl",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
   },
   {
     "title": "Game Library Manager",
@@ -98,6 +118,16 @@
     "tech": "Bash",
     "description": "",
     "date": "2026-11-01"
+  },
+  {
+    "title": "Result Vibe",
+    "repo": "Kuldeepsingh-coder/Result_vibe",
+    "url": "https://github.com/Kuldeepsingh-coder/Result_vibe",
+    "student": "Kuldeepsingh-coder",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
   },
   {
     "title": "RPS Arena (Rock Paper Scissors)",

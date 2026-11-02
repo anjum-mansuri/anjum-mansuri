@@ -68,10 +68,10 @@ I also deliver faculty development programmes and online training for organisati
 
 ## 🎓 Projects I've Guided
 
-Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every week.
+Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every day.
 
 <!-- GUIDED:START -->
-**40 student projects guided** · ML · Linux · UDP · auto-updated weekly
+**43 student projects guided** · ML · Linux · UDP · auto-updated daily
 
 ### 🤖 Machine Learning (26)
 
@@ -104,11 +104,13 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Star, Galaxy or Quasar?](https://github.com/Boghrahani/Star-Galaxy-or-Quasar-) | [@Boghrahani](https://github.com/Boghrahani) | Python · Jupyter |
 | [Tumour Tagger](https://github.com/rushanshaikh0905-hub/Tumour_Tagger) | [@rushanshaikh0905-hub](https://github.com/rushanshaikh0905-hub) | Python · Jupyter |
 
-### 🐧 Linux Shell Scripting (12)
+### 🐧 Linux Shell Scripting (15)
 
 | Project | Student | Tech |
 |---|---|---|
+| [Anime Episode Tracker](https://github.com/hardikshrimali1510-collab/anime-episode-tracker) | [@hardikshrimali1510-collab](https://github.com/hardikshrimali1510-collab) | Bash |
 | [Bunk Calculator](https://github.com/Yagna192006/bunk-calculator) | [@Yagna192006](https://github.com/Yagna192006) | Bash |
+| [Deadline Radar](https://github.com/ambaliyalarohan-ctrl/Deadline-Radar) | [@ambaliyalarohan-ctrl](https://github.com/ambaliyalarohan-ctrl) | Bash |
 | [Game Library Manager](https://github.com/rajdeep576/game-library-manager) | [@rajdeep576](https://github.com/rajdeep576) | Bash |
 | [Group Chat Analyzer](https://github.com/archipatel04112006/L35-Group-Chat-Analyzer) | [@archipatel04112006](https://github.com/archipatel04112006) | Bash |
 | [Guess The Number Pro](https://github.com/PurvanshDarji/GuessTheNumberPro) | [@PurvanshDarji](https://github.com/PurvanshDarji) | Bash |
@@ -118,6 +120,7 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Medicine Reminder](https://github.com/nishika-28007/Medicine-Reminder-L84) | [@nishika-28007](https://github.com/nishika-28007) | Bash |
 | [Mood Journal](https://github.com/himanigohel14-debug/L51-Mood-Journal) | [@himanigohel14-debug](https://github.com/himanigohel14-debug) | Bash |
 | [Price Drop Watcher](https://github.com/shreyansh6868/Price-Drop-Watcher) | [@shreyansh6868](https://github.com/shreyansh6868) | Bash |
+| [Result Vibe](https://github.com/Kuldeepsingh-coder/Result_vibe) | [@Kuldeepsingh-coder](https://github.com/Kuldeepsingh-coder) | Bash |
 | [RPS Arena (Rock Paper Scissors)](https://github.com/TarunGadhvi/Linux_Project_B08_L17_RPSARENA) | [@TarunGadhvi](https://github.com/TarunGadhvi) | Bash |
 | [Step Streak](https://github.com/srushti281106/step-streak) | [@srushti281106](https://github.com/srushti281106) | Bash |
 

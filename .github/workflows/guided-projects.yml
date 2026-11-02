@@ -1,6 +1,6 @@
 name: Update guided projects
 on:
-  schedule: [{cron: "30 3 * * 1"}]   # every Monday 9:00 AM IST
+  schedule: [{cron: "37 3 * * *"}]   # every day ~9:07 AM IST
   workflow_dispatch:
 permissions: {contents: write}
 jobs:

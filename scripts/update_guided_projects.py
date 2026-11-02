@@ -8,10 +8,16 @@ if os.getenv("GITHUB_TOKEN"): headers["Authorization"] = "Bearer " + os.environ[
 def search(q):
     req = urllib.request.Request(f"https://api.github.com/search/repositories?q={q}&per_page=100", headers=headers)
     return json.load(urllib.request.urlopen(req))["items"]
-items = {r["full_name"]: r for r in search(f"{USER}+in:readme") + search(f"topic:guided-by-{USER}")}
+import urllib.parse, time
+QUERIES = [f"{USER} in:readme", '"Anjum Y. Mansuri" in:readme', '"Anjum Mansuri" in:readme', f"topic:guided-by-{USER}"]
+items = {}
+for q in QUERIES:
+    for r in search(urllib.parse.quote(q)):
+        items[r["full_name"]] = r
+    time.sleep(3)
 old = {p["repo"]: p for p in json.load(open("projects.json"))} if os.path.exists("projects.json") else {}
 excluded = set(json.load(open("excluded.json"))) if os.path.exists("excluded.json") else set()
-out = []
+out = [p for n, p in old.items() if n not in items and n not in excluded]
 for name, r in items.items():
     if r["owner"]["login"] in SKIP_OWNERS or name in excluded or r["fork"]: continue
     if name in old: out.append(old[name]); continue          # keep hand-edited titles
@@ -33,7 +39,7 @@ for c, icon in [("Machine Learning", "🤖"), ("Linux Shell Scripting", "🐧"),
     if not ps: continue
     rows = "\n".join(f"| [{x['title']}]({x['url']}) | [@{x['student']}](https://github.com/{x['student']}) | {x['tech']} |" for x in ps)
     sec.append(f"### {icon} {c} ({len(ps)})\n\n| Project | Student | Tech |\n|---|---|---|\n{rows}")
-table = f"**{len(out)} student projects guided** · ML · Linux · UDP · auto-updated weekly\n\n" + "\n\n".join(sec)
+table = f"**{len(out)} student projects guided** · ML · Linux · UDP · auto-updated daily\n\n" + "\n\n".join(sec)
 readme = open("README.md").read()
 readme = re.sub(r"<!-- GUIDED:START -->.*<!-- GUIDED:END -->", lambda m: f"<!-- GUIDED:START -->\n{table}\n<!-- GUIDED:END -->", readme, flags=re.S)
 open("README.md", "w").write(readme)
