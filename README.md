@@ -52,8 +52,6 @@ My PhD (GLS University, 2026), *"Gujarati Speech Analysis to Identify Emotional 
 
 Machine Learning · Linux & Operating Systems · UDP · SQL / PL-SQL / Oracle · Software Engineering · E-Commerce
 
-I also deliver faculty development programmes and online training for organisations in India and abroad.
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
