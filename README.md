@@ -1,17 +1,74 @@
-# Dr. Anjum Y. Mansuri
+<h1 align="center">Dr. Anjum Y. Mansuri</h1>
+<p align="center">
+  <b>Assistant Professor, Computer Applications</b> · LJ Institute of Computer Applications, LJ University, Ahmedabad<br>
+  PhD (Machine Learning) · Speech Emotion Recognition for Gujarati and low-resource Indian languages
+</p>
 
-Assistant Professor, Computer Applications · LJ Institute of Computer Applications, LJ University, Ahmedabad
-PhD in Gujarati Speech Emotion Recognition using Machine Learning (GLS University)
-
-🔬 Research: Speech Emotion Recognition · Machine Learning · Low-resource Indian languages
-🧑‍🏫 Teaching: Machine Learning · Linux & Operating Systems · UDP · SQL / PL/SQL · Software Engineering
-📫 aymljku@gmail.com
+<p align="center">
+  <a href="https://site-zeta-ten-15.vercel.app"><img src="https://img.shields.io/badge/Website-1f2937?style=flat&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/anjum-mansuri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=KVcNYF4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0000-0002-6371-9480"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://www.researchgate.net/profile/Anjum-Mansuri"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <img src="https://img.shields.io/badge/anjum.mansuri%40ljku.edu.in-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+</p>
 
 ---
 
+## 🔬 Research
+
+My PhD (GLS University, 2026), *"Gujarati Speech Analysis to Identify Emotional Sentiments using Machine Learning"*, built one of the first emotion-labelled speech datasets for Gujarati and a recognition pipeline for it.
+
+- **GSED – Gujarati Speech Emotion Dataset:** 623 recordings · 27 speakers · 7 emotions · 4 dialect regions of Gujarat
+- **93.48% accuracy** in recognising emotions from Gujarati speech using acoustic features (MFCC, pitch, energy, openSMILE) with classical ML models
+- **Cross-lingual transfer learning** from English to Gujarati for low-resource speech emotion recognition
+- **Now working on:** self-supervised speech models (Wav2Vec2, HuBERT), synthetic data augmentation, and dialect-aware emotion recognition
+
+**Interests:** Speech Emotion Recognition · Machine Learning · Deep Learning for Audio · Low-resource NLP · RAG / LLM applications
+
+## 📄 Publications
+
+| Year | Title | Venue |
+|---|---|---|
+| 2025 | Creating a Gujarati Speech Database to Analyze Seven Distinct Emotions | Springer (ISBM 2024) |
+| 2025 | Emotion Recognition in Gujarati Audio using Feature Extraction for Machine Learning Models | Springer (ISBM 2024) |
+| 2025 | Enhancing Cross-Cultural Speech Emotion Recognition: A Comparative Study of Gujarati and English Datasets | Springer (ISBM 2024) |
+| 2023 | Academic Admission Prediction using Machine Learning Techniques – A Survey | ICRAECA 2023 (IFERP) |
+| 2021 | Speech Emotion Recognition: A Review | IJIET (9th ICRIR) |
+
+🏆 **Best Paper Presentation Award**, ICRAECA 2023  
+📝 **Reviewer**, IEEE TEMSCON-ASPAC 2026  
+🎤 **Resource Person**, Faculty Development Programme, LJ University (2026)
+
+## 🛠️ Featured Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**AI-PDF_RAG**](https://github.com/anjum-mansuri/AI-PDF_RAG) | Offline, secure chatbot that answers questions from your PDFs. Nothing leaves the machine. | Python · FastAPI · ChromaDB · Ollama · RAG |
+| [**gujarati-ser-recorder**](https://github.com/anjum-mansuri/gujarati-ser-recorder) | Web app for recording speech samples for Gujarati emotion research | HTML · JavaScript |
+| [**GSED v2 Collection Tool**](https://gsed-collection.vercel.app) | Live web app collecting new speakers for the next version of the Gujarati emotion dataset | Next.js · Supabase · Vercel |
+
+## 🧑‍🏫 Teaching
+
+Machine Learning · Linux & Operating Systems · UDP · SQL / PL-SQL / Oracle · Software Engineering · E-Commerce
+
+I also deliver faculty development programmes and online training for organisations in India and abroad.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle PL/SQL">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain">
+</p>
+
 ## 🎓 Projects I've Guided
 
-Student projects built under my guidance at LJ University. Each repository credits me as Project Guide in its README.
+Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every week.
 
 <!-- GUIDED:START -->
 **40 student projects guided** · ML · Linux · UDP · auto-updated weekly
@@ -72,4 +129,8 @@ Student projects built under my guidance at LJ University. Each repository credi
 | [Tofu: YouTube-style Video Platform](https://github.com/TarunGadhvi/Tofu-YouTube-Clone) | [@TarunGadhvi](https://github.com/TarunGadhvi) | Next.js · TypeScript |
 <!-- GUIDED:END -->
 
-> **Students:** to appear here, add the topic `guided-by-anjum-mansuri` to your repository and the Project Guide block to your README.
+> **Students:** to appear here, add the topic `guided-by-anjum-mansuri` to your repository and keep the Project Guide section in your README.
+
+## 🤝 Open to
+
+Research collaboration on speech and low-resource language AI · Journal and conference reviewing · Guest lectures and FDPs · Corporate and international training
