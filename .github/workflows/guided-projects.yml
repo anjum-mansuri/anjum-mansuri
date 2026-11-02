@@ -1,0 +1,16 @@
+name: Update guided projects
+on:
+  schedule: [{cron: "30 3 * * 1"}]   # every Monday 9:00 AM IST
+  workflow_dispatch:
+permissions: {contents: write}
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/update_guided_projects.py
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A && git diff --cached --quiet || (git commit -m "Update guided projects" && git push)

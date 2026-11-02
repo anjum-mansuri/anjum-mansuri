@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Bunk Calculator",
+    "repo": "Yagna192006/bunk-calculator",
+    "url": "https://github.com/Yagna192006/bunk-calculator",
+    "student": "Yagna192006",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "A Linux Bash attendance tracker and bunk calculator that analyzes subject-wise attendance using awk and alerts when attendance falls below 75%.Shell script attendance tracking system with analytics, bunk capacity calculations, automated reports, and cron reminders.",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Game Library Manager",
+    "repo": "rajdeep576/game-library-manager",
+    "url": "https://github.com/rajdeep576/game-library-manager",
+    "student": "rajdeep576",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "L76 - Game Library Manager - Linux OS Lab Project",
+    "date": "2026-10-31"
+  },
+  {
+    "title": "Group Chat Analyzer",
+    "repo": "archipatel04112006/L35-Group-Chat-Analyzer",
+    "url": "https://github.com/archipatel04112006/L35-Group-Chat-Analyzer",
+    "student": "archipatel04112006",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux Bash Shell Scripting Project",
+    "date": "2026-10-31"
+  },
+  {
+    "title": "Guess The Number Pro",
+    "repo": "PurvanshDarji/GuessTheNumberPro",
+    "url": "https://github.com/PurvanshDarji/GuessTheNumberPro",
+    "student": "PurvanshDarji",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Habit Tracker",
+    "repo": "divya1208rathod-web/H36-L106-Habit-Tracker",
+    "url": "https://github.com/divya1208rathod-web/H36-L106-Habit-Tracker",
+    "student": "divya1208rathod-web",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Lab Register",
+    "repo": "maitri566/lab-register",
+    "url": "https://github.com/maitri566/lab-register",
+    "student": "maitri566",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Meal Planner",
+    "repo": "afifamansuri-011/L26-meal-planner",
+    "url": "https://github.com/afifamansuri-011/L26-meal-planner",
+    "student": "afifamansuri-011",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux Shell Scripting Project - Meal Planner",
+    "date": "2026-10-31"
+  },
+  {
+    "title": "Medicine Reminder",
+    "repo": "nishika-28007/Medicine-Reminder-L84",
+    "url": "https://github.com/nishika-28007/Medicine-Reminder-L84",
+    "student": "nishika-28007",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-10-31"
+  },
+  {
+    "title": "Mood Journal",
+    "repo": "himanigohel14-debug/L51-Mood-Journal",
+    "url": "https://github.com/himanigohel14-debug/L51-Mood-Journal",
+    "student": "himanigohel14-debug",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Daily Mood Journal using Bash Shell Scripting",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Price Drop Watcher",
+    "repo": "shreyansh6868/Price-Drop-Watcher",
+    "url": "https://github.com/shreyansh6868/Price-Drop-Watcher",
+    "student": "shreyansh6868",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "RPS Arena (Rock Paper Scissors)",
+    "repo": "TarunGadhvi/Linux_Project_B08_L17_RPSARENA",
+    "url": "https://github.com/TarunGadhvi/Linux_Project_B08_L17_RPSARENA",
+    "student": "TarunGadhvi",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux project submission",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Step Streak",
+    "repo": "srushti281106/step-streak",
+    "url": "https://github.com/srushti281106/step-streak",
+    "student": "srushti281106",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux Bash project for tracking daily steps, calculating streaks, generating reports and creating backups.",
+    "date": "2026-10-31"
+  },
+  {
+    "title": "Asteroid Hazard Classifier",
+    "repo": "khushi082005-n/asteroid-hazard-classifier",
+    "url": "https://github.com/khushi082005-n/asteroid-hazard-classifier",
+    "student": "khushi082005-n",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "A machine learning model to predict whether a Near-Earth Object (NEO) / asteroid is hazardous based on physical and orbital characteristics.",
+    "date": "2026-10-31"
+  },
+  {
+    "title": "Banger or Not? Song Hit Predictor",
+    "repo": "krishpatel99797/Ml---Model-",
+    "url": "https://github.com/krishpatel99797/Ml---Model-",
+    "student": "krishpatel99797",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "This is Ml model project for my collage the topic is banger or not",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Comeback Mobile Game Retention",
+    "repo": "yasubsaiyed11/Comeback-Mobile-Game-Retention",
+    "url": "https://github.com/yasubsaiyed11/Comeback-Mobile-Game-Retention",
+    "student": "yasubsaiyed11",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Credit Score",
+    "repo": "Bhavik0001/credit_score",
+    "url": "https://github.com/Bhavik0001/credit_score",
+    "student": "Bhavik0001",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "This project is about the CreditScore",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Diabetes Predictor",
+    "repo": "pratiksavaliya2007-hue/diabetes-predictor",
+    "url": "https://github.com/pratiksavaliya2007-hue/diabetes-predictor",
+    "student": "pratiksavaliya2007-hue",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "Sugar Check: Diabetes Predictor - ML-I Lab IMCA Sem V",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Fake News Buster",
+    "repo": "mittupatel269-netizen/Fake-News-Buster-",
+    "url": "https://github.com/mittupatel269-netizen/Fake-News-Buster-",
+    "student": "mittupatel269-netizen",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "Fake News Detection using Machine Learning and Multinomial Naive Bayes.",
+    "date": "2026-10-31"
+  },
+  {
+    "title": "Fitness Grade (A to D)",
+    "repo": "janvi15032007/Fitness-Grade-A-to-D",
+    "url": "https://github.com/janvi15032007/Fitness-Grade-A-to-D",
+    "student": "janvi15032007",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-10-31"
+  },
+  {
+    "title": "Gym Rat Level Prediction (KNN)",
+    "repo": "akpatel2029-ux/gym-rat-level-prediction-knn",
+    "url": "https://github.com/akpatel2029-ux/gym-rat-level-prediction-knn",
+    "student": "akpatel2029-ux",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "P24 - Gym Rat Experience Level Prediction using K-Nearest Neighbours (KNN) | Complete ML pipeline in Jupyter Notebook | No CSV required",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Heart Check",
+    "repo": "voranikki9-bot/P18-heart-check",
+    "url": "https://github.com/voranikki9-bot/P18-heart-check",
+    "student": "voranikki9-bot",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "IPL: Does Winning the Toss Win the Match?",
+    "repo": "Samiyap07/IPL-Does-Winning-the-Toss-Win-the-Match",
+    "url": "https://github.com/Samiyap07/IPL-Does-Winning-the-Toss-Win-the-Match",
+    "student": "Samiyap07",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Is This Water Safe to Drink?",
+    "repo": "sahilshaikh24267/Is-This-Water-Safe-to-Drink-",
+    "url": "https://github.com/sahilshaikh24267/Is-This-Water-Safe-to-Drink-",
+    "student": "sahilshaikh24267",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Legendary or Not? Pokémon Classifier",
+    "repo": "Arshiya1007/Legendary-or-Not--Pok-mon-Classifier",
+    "url": "https://github.com/Arshiya1007/Legendary-or-Not--Pok-mon-Classifier",
+    "student": "Arshiya1007",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Loan Approval Predictor (P36)",
+    "repo": "SamarSR7/P36_B42_LOAN-",
+    "url": "https://github.com/SamarSR7/P36_B42_LOAN-",
+    "student": "SamarSR7",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "lj-university, imca, and machine-learning (ML students)",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Loan Approved Or Not",
+    "repo": "SamarSR7/loan-approved-or-not",
+    "url": "https://github.com/SamarSR7/loan-approved-or-not",
+    "student": "SamarSR7",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "topic: loan-approved or not?",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "ML Lab Project",
+    "repo": "krishr0007/ML",
+    "url": "https://github.com/krishr0007/ML",
+    "student": "krishr0007",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "lj-university, imca, and machine-learning (ML students)",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "ML Model Project",
+    "repo": "jaydeep1572/Ml---Model-2",
+    "url": "https://github.com/jaydeep1572/Ml---Model-2",
+    "student": "jaydeep1572",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "This is ml Project",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "ML Project",
+    "repo": "junedhalai02/ML_Project",
+    "url": "https://github.com/junedhalai02/ML_Project",
+    "student": "junedhalai02",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Penguin Species ID",
+    "repo": "bilalh04-coder/penguin_species_id",
+    "url": "https://github.com/bilalh04-coder/penguin_species_id",
+    "student": "bilalh04-coder",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Phishing Link Detector",
+    "repo": "ravisuthar16/phishing-link-detector",
+    "url": "https://github.com/ravisuthar16/phishing-link-detector",
+    "student": "ravisuthar16",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Play Store Predictor Guide",
+    "repo": "rudra8485/play-store-predictor-guide",
+    "url": "https://github.com/rudra8485/play-store-predictor-guide",
+    "student": "rudra8485",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Rain Prediction",
+    "repo": "Aryan-Patel-6997/ML-RAIN_P56",
+    "url": "https://github.com/Aryan-Patel-6997/ML-RAIN_P56",
+    "student": "Aryan-Patel-6997",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "lj-university, imca, and machine-learning (ML students)",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Screen Time Personality",
+    "repo": "harshbrahmbhatt2347-source/screen-time-personality",
+    "url": "https://github.com/harshbrahmbhatt2347-source/screen-time-personality",
+    "student": "harshbrahmbhatt2347-source",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Sleep Disorder Detector",
+    "repo": "Aksha2512/Sleep-Disorder-Detector",
+    "url": "https://github.com/Aksha2512/Sleep-Disorder-Detector",
+    "student": "Aksha2512",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Smartwatch Activity Recognition",
+    "repo": "feni007/B07-P25-smartwatch-activity-recognition",
+    "url": "https://github.com/feni007/B07-P25-smartwatch-activity-recognition",
+    "student": "feni007",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Star, Galaxy or Quasar?",
+    "repo": "Boghrahani/Star-Galaxy-or-Quasar-",
+    "url": "https://github.com/Boghrahani/Star-Galaxy-or-Quasar-",
+    "student": "Boghrahani",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Tumour Tagger",
+    "repo": "rushanshaikh0905-hub/Tumour_Tagger",
+    "url": "https://github.com/rushanshaikh0905-hub/Tumour_Tagger",
+    "student": "rushanshaikh0905-hub",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "A machine learning project that classifies breast tumours as benign or malignant using Logistic Regression. Built with Python and Scikit-learn, this project includes data cleaning, analysis, model training, and performance evaluation.",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Medicine Reminder App",
+    "repo": "Nahiyan00035/medicine-reminder-app",
+    "url": "https://github.com/Nahiyan00035/medicine-reminder-app",
+    "student": "Nahiyan00035",
+    "course": "UDP",
+    "tech": "Flutter",
+    "description": "",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Tofu: YouTube-style Video Platform",
+    "repo": "TarunGadhvi/Tofu-YouTube-Clone",
+    "url": "https://github.com/TarunGadhvi/Tofu-YouTube-Clone",
+    "student": "TarunGadhvi",
+    "course": "UDP",
+    "tech": "Next.js · TypeScript",
+    "description": "Video streaming and upload platform with AI-generated titles, transcription, playlists and subscriptions.",
+    "date": "2026-10-11"
+  }
+]
