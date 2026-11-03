@@ -68,7 +68,7 @@ Machine Learning · Linux & Operating Systems · UDP · SQL / PL-SQL / Oracle ·
 Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every day.
 
 <!-- GUIDED:START -->
-**90 student projects guided** · ML · Linux · UDP · auto-updated daily
+**94 student projects guided** · ML · Linux · UDP · auto-updated daily
 
 ### 🤖 Machine Learning (36)
 
@@ -167,10 +167,14 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [WeatherScope](https://github.com/fatemakhojani103-blip/WeatherScope) | [@fatemakhojani103-blip](https://github.com/fatemakhojani103-blip) | Bash |
 | [Workout Planner](https://github.com/MannGohil18/L85-Workout-Planner) | [@MannGohil18](https://github.com/MannGohil18) | Bash |
 
-### 🌐 UDP (3)
+### 🌐 UDP (7)
 
 | Project | Student | Tech |
 |---|---|---|
+| [Beamers Legacy: BMW Dealership](https://github.com/ParilGohil/Beamers-Legacy) | [@ParilGohil](https://github.com/ParilGohil) | PHP · MySQL |
+| [CityFix](https://github.com/gw-tirth/CityFix-) | [@gw-tirth](https://github.com/gw-tirth) | Flutter |
+| [HealNest: Family Health Tracker](https://github.com/rajpurohitshaktisingh69-create/UDP_G_13) | [@rajpurohitshaktisingh69-create](https://github.com/rajpurohitshaktisingh69-create) | PHP · MySQL |
+| [LifeCare: Hospital Management](https://github.com/manngohil018-create/lifecare) | [@manngohil018-create](https://github.com/manngohil018-create) | Laravel · PHP |
 | [Medicine Reminder App](https://github.com/Nahiyan00035/medicine-reminder-app) | [@Nahiyan00035](https://github.com/Nahiyan00035) | Flutter |
 | [MediKit](https://github.com/maitri566/medikit_udp) | [@maitri566](https://github.com/maitri566) | App |
 | [Tofu: YouTube-style Video Platform](https://github.com/TarunGadhvi/Tofu-YouTube-Clone) | [@TarunGadhvi](https://github.com/TarunGadhvi) | Next.js · TypeScript |
