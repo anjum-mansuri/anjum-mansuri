@@ -167,4 +167,4 @@ Student projects built under my guidance at LJ University. Each one credits me a
 
 ## 🤝 Open to
 
-Research collaboration on speech and low-resource language AI · Journal and conference reviewing · Guest lectures and FDPs · Corporate and international training
+Research collaboration on speech and low-resource language AI · Journal and conference reviewing · Guest lectures and FDPs
