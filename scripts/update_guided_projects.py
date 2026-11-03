@@ -52,7 +52,7 @@ sec = []
 for c, icon in [("Machine Learning", "🤖"), ("Linux Shell Scripting", "🐧"), ("UDP", "🌐")]:
     ps = [x for x in out if x["course"] == c]
     if not ps: continue
-    rows = "\n".join(f"| [{x['title']}]({x['url']}) | [@{x['student']}](https://github.com/{x['student']}) | {x['tech']} |" for x in ps)
+    rows = "\n".join(f"| [{x['title']}]({x['url']}) | [@{x['student']}]({x.get('student_url') or 'https://github.com/' + x['student']}) | {x['tech']} |" for x in ps)
     sec.append(f"### {icon} {c} ({len(ps)})\n\n| Project | Student | Tech |\n|---|---|---|\n{rows}")
 table = f"**{len(out)} student projects guided** · ML · Linux · UDP · auto-updated daily\n\n" + "\n\n".join(sec)
 readme = open("README.md").read()

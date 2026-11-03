@@ -69,42 +69,50 @@ Machine Learning · Linux & Operating Systems · UDP · SQL / PL-SQL / Oracle ·
 Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every day.
 
 <!-- GUIDED:START -->
-**76 student projects guided** · ML · Linux · UDP · auto-updated daily
+**90 student projects guided** · ML · Linux · UDP · auto-updated daily
 
-### 🤖 Machine Learning (28)
+### 🤖 Machine Learning (36)
 
 | Project | Student | Tech |
 |---|---|---|
 | [Asteroid Hazard Classifier](https://github.com/khushi082005-n/asteroid-hazard-classifier) | [@khushi082005-n](https://github.com/khushi082005-n) | Python · Jupyter |
 | [Banger or Not? Song Hit Predictor](https://github.com/krishpatel99797/Ml---Model-) | [@krishpatel99797](https://github.com/krishpatel99797) | Python · Jupyter |
+| [Card Fraud Catcher](https://github.com/jaimitp2011/Card_Fraud_Catcher) | [@jaimitp2011](https://github.com/jaimitp2011) | Python · Jupyter |
 | [Comeback Mobile Game Retention](https://github.com/yasubsaiyed11/Comeback-Mobile-Game-Retention) | [@yasubsaiyed11](https://github.com/yasubsaiyed11) | Python · Jupyter |
 | [Credit Score](https://github.com/Bhavik0001/credit_score) | [@Bhavik0001](https://github.com/Bhavik0001) | Python · Jupyter |
 | [Diabetes Predictor](https://github.com/pratiksavaliya2007-hue/diabetes-predictor) | [@pratiksavaliya2007-hue](https://github.com/pratiksavaliya2007-hue) | Python · Jupyter |
+| [Exam Glow-Up: Pass Predictor](https://gitlab.com/suzyvohra/exam-glow-up-pass-predictor) | [@suzyvohra](https://gitlab.com/suzyvohra) | Python · Jupyter |
 | [Fake News Buster](https://github.com/mittupatel269-netizen/Fake-News-Buster-) | [@mittupatel269-netizen](https://github.com/mittupatel269-netizen) | Python · Jupyter |
 | [Fitness Grade (A to D)](https://github.com/janvi15032007/Fitness-Grade-A-to-D) | [@janvi15032007](https://github.com/janvi15032007) | Python · Jupyter |
 | [Gym Rat Level Prediction (KNN)](https://github.com/akpatel2029-ux/gym-rat-level-prediction-knn) | [@akpatel2029-ux](https://github.com/akpatel2029-ux) | Python · Jupyter |
 | [Heart Check](https://github.com/voranikki9-bot/P18-heart-check) | [@voranikki9-bot](https://github.com/voranikki9-bot) | Python · Jupyter |
 | [Heart Failure Survival](https://github.com/nupur1959/HERAT-FAILURE-SURVIVAL) | [@nupur1959](https://github.com/nupur1959) | Python · Jupyter |
+| [Hotel Booking: Will They Cancel?](https://gitlab.com/Deenaz.pathan67/hotel-booking-will-they-cancel) | [@Deenaz.pathan67](https://gitlab.com/Deenaz.pathan67) | Python · Jupyter |
 | [IPL: Does Winning the Toss Win the Match?](https://github.com/Samiyap07/IPL-Does-Winning-the-Toss-Win-the-Match) | [@Samiyap07](https://github.com/Samiyap07) | Python · Jupyter |
 | [Is This Water Safe to Drink?](https://github.com/sahilshaikh24267/Is-This-Water-Safe-to-Drink-) | [@sahilshaikh24267](https://github.com/sahilshaikh24267) | Python · Jupyter |
 | [Legendary or Not? Pokémon Classifier](https://github.com/Arshiya1007/Legendary-or-Not--Pok-mon-Classifier) | [@Arshiya1007](https://github.com/Arshiya1007) | Python · Jupyter |
+| [Loan Approval Predictor](https://gitlab.com/Aasma_Chopda2411/ml_loan_approved_project) | [@Aasma_Chopda2411](https://gitlab.com/Aasma_Chopda2411) | Python · Jupyter |
 | [Loan Approval Predictor (P36)](https://github.com/SamarSR7/P36_B42_LOAN-) | [@SamarSR7](https://github.com/SamarSR7) | Python · Jupyter |
 | [Loan Approved Or Not](https://github.com/SamarSR7/loan-approved-or-not) | [@SamarSR7](https://github.com/SamarSR7) | Python · Jupyter |
 | [ML Lab Project](https://github.com/krishr0007/ML) | [@krishr0007](https://github.com/krishr0007) | Python · Jupyter |
 | [ML Model Project](https://github.com/jaydeep1572/Ml---Model-2) | [@jaydeep1572](https://github.com/jaydeep1572) | Python · Jupyter |
 | [ML Project](https://github.com/junedhalai02/ML_Project) | [@junedhalai02](https://github.com/junedhalai02) | Python · Jupyter |
+| [ML Project (P26)](https://github.com/rasheshshrimankar-alt/ml-project) | [@rasheshshrimankar-alt](https://github.com/rasheshshrimankar-alt) | Python · Jupyter |
 | [Penguin Species ID](https://github.com/bilalh04-coder/penguin_species_id) | [@bilalh04-coder](https://github.com/bilalh04-coder) | Python · Jupyter |
 | [Phishing Link Detector](https://github.com/ravisuthar16/phishing-link-detector) | [@ravisuthar16](https://github.com/ravisuthar16) | Python · Jupyter |
 | [Play Store Predictor Guide](https://github.com/rudra8485/play-store-predictor-guide) | [@rudra8485](https://github.com/rudra8485) | Python · Jupyter |
 | [Rain Prediction](https://github.com/Aryan-Patel-6997/ML-RAIN_P56) | [@Aryan-Patel-6997](https://github.com/Aryan-Patel-6997) | Python · Jupyter |
 | [Screen Time Personality](https://github.com/harshbrahmbhatt2347-source/screen-time-personality) | [@harshbrahmbhatt2347-source](https://github.com/harshbrahmbhatt2347-source) | Python · Jupyter |
+| [Should I Buy a Car?](https://github.com/dinkalshah619/Should_I_Buy_A_Car) | [@dinkalshah619](https://github.com/dinkalshah619) | Python · Jupyter |
 | [Sleep Disorder Detector](https://github.com/Aksha2512/Sleep-Disorder-Detector) | [@Aksha2512](https://github.com/Aksha2512) | Python · Jupyter |
+| [Smart Farming](https://github.com/deeppavasiya15-ai/smart_farming) | [@deeppavasiya15-ai](https://github.com/deeppavasiya15-ai) | Python · Jupyter |
 | [Smartwatch Activity Recognition](https://github.com/feni007/B07-P25-smartwatch-activity-recognition) | [@feni007](https://github.com/feni007) | Python · Jupyter |
 | [Star, Galaxy or Quasar?](https://github.com/Boghrahani/Star-Galaxy-or-Quasar-) | [@Boghrahani](https://github.com/Boghrahani) | Python · Jupyter |
+| [Stroke Risk Radar](https://github.com/Princedarj/Stroke-Predction-ML) | [@Princedarj](https://github.com/Princedarj) | Python · Jupyter |
 | [Tumour Tagger](https://github.com/rushanshaikh0905-hub/Tumour_Tagger) | [@rushanshaikh0905-hub](https://github.com/rushanshaikh0905-hub) | Python · Jupyter |
 | [Video Game Hit Predictor](https://github.com/SamarSR7/B41_P10_video_gaem_hit_predicter) | [@SamarSR7](https://github.com/SamarSR7) | Python · Jupyter |
 
-### 🐧 Linux Shell Scripting (45)
+### 🐧 Linux Shell Scripting (51)
 
 | Project | Student | Tech |
 |---|---|---|
@@ -113,6 +121,8 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Bulk Photo Renamer](https://github.com/joyalraval-alt/-Bulk-Photo-Renamer) | [@joyalraval-alt](https://github.com/joyalraval-alt) | Bash |
 | [Bunk Calculator](https://github.com/Yagna192006/bunk-calculator) | [@Yagna192006](https://github.com/Yagna192006) | Bash |
 | [Bus Pass Validity Check](https://github.com/viditashah2901/buss-pass-validity-check) | [@viditashah2901](https://github.com/viditashah2901) | Bash |
+| [Cafe Loyalty Points](https://github.com/khyati2007/E19_LL15_Linux_CafeLoyaltyPoint) | [@khyati2007](https://github.com/khyati2007) | Bash |
+| [Canteen Counter](https://github.com/psaumya1008-eng/Linux-Canteen-Counter) | [@psaumya1008-eng](https://github.com/psaumya1008-eng) | Bash |
 | [Code Line Counter](https://github.com/i-dhruvsoni-tech/L40-code-line-counter) | [@i-dhruvsoni-tech](https://github.com/i-dhruvsoni-tech) | Bash |
 | [Concert Seats](https://github.com/juned-ansarii/concertseats) | [@juned-ansarii](https://github.com/juned-ansarii) | Bash |
 | [Contact Book](https://github.com/kakar4t-xe/contact-book-in-linux) | [@kakar4t-xe](https://github.com/kakar4t-xe) | Bash |
@@ -131,6 +141,7 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Hydration Reminder](https://github.com/monanzasandhi81-alt/linux-hydration-reminder) | [@monanzasandhi81-alt](https://github.com/monanzasandhi81-alt) | Bash |
 | [Lab Register](https://github.com/maitri566/lab-register) | [@maitri566](https://github.com/maitri566) | Bash |
 | [Leaderboard](https://github.com/parilgohilclg/Leaderboard) | [@parilgohilclg](https://github.com/parilgohilclg) | Bash |
+| [Log Detective](https://github.com/srushtivala1-coder/Log-Detective) | [@srushtivala1-coder](https://github.com/srushtivala1-coder) | Bash |
 | [Login Watch](https://github.com/memonsabaa2508-ship-it/loginwatch-linux-shell) | [@memonsabaa2508-ship-it](https://github.com/memonsabaa2508-ship-it) | Bash |
 | [Lyrics Finder](https://github.com/nivhirpara250-hue/LyricsFinder) | [@nivhirpara250-hue](https://github.com/nivhirpara250-hue) | Bash |
 | [Marks Tracker](https://github.com/Vedika185/MarksTracker) | [@Vedika185](https://github.com/Vedika185) | Bash |
@@ -139,11 +150,13 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Mood Journal](https://github.com/himanigohel14-debug/L51-Mood-Journal) | [@himanigohel14-debug](https://github.com/himanigohel14-debug) | Bash |
 | [NotesVault](https://github.com/arsheemotani1908/NotesVault_GitHub_Complete) | [@arsheemotani1908](https://github.com/arsheemotani1908) | Bash |
 | [Notice Board Management System](https://github.com/raviram2882005/Ubantu-linux-project) | [@raviram2882005](https://github.com/raviram2882005) | Bash |
+| [Order Tracker](https://github.com/dharmikp309/order_tracker_linux) | [@dharmikp309](https://github.com/dharmikp309) | Bash |
 | [Pocket Money Tracker](https://github.com/voraviral522/Linux-PocketMoney-Project) | [@voraviral522](https://github.com/voraviral522) | Bash |
 | [Price Drop Watcher](https://github.com/shreyansh6868/Price-Drop-Watcher) | [@shreyansh6868](https://github.com/shreyansh6868) | Bash |
 | [Reading List Tracker](https://github.com/ubhatt502/Reading-List-Tracker) | [@ubhatt502](https://github.com/ubhatt502) | Bash |
 | [Result Vibe](https://github.com/Kuldeepsingh-coder/Result_vibe) | [@Kuldeepsingh-coder](https://github.com/Kuldeepsingh-coder) | Bash |
 | [RPS Arena (Rock Paper Scissors)](https://github.com/TarunGadhvi/Linux_Project_B08_L17_RPSARENA) | [@TarunGadhvi](https://github.com/TarunGadhvi) | Bash |
+| [Second-Hand Book Market](https://github.com/roshanimakwana89-art/Second-Hand-Book-Market) | [@roshanimakwana89-art](https://github.com/roshanimakwana89-art) | Bash |
 | [Sports Day Registration](https://github.com/stdved8181patel-source/sports-day-registration) | [@stdved8181patel-source](https://github.com/stdved8181patel-source) | Bash |
 | [Step Streak](https://github.com/srushti281106/step-streak) | [@srushti281106](https://github.com/srushti281106) | Bash |
 | [Stock Alert](https://github.com/patoliyajenish001-web/stockalert) | [@patoliyajenish001-web](https://github.com/patoliyajenish001-web) | Bash |
@@ -152,6 +165,7 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Terminal Quiz Battle](https://github.com/1708prachi/terminal-quiz-battle) | [@1708prachi](https://github.com/1708prachi) | Bash |
 | [Tic-Tac-Toe](https://github.com/umarsaiyed001/L75_TicTacToe) | [@umarsaiyed001](https://github.com/umarsaiyed001) | Bash |
 | [Watchlist Manager](https://github.com/zarmin115/Linux-Watchlist-Manager) | [@zarmin115](https://github.com/zarmin115) | Bash |
+| [WeatherScope](https://github.com/fatemakhojani103-blip/WeatherScope) | [@fatemakhojani103-blip](https://github.com/fatemakhojani103-blip) | Bash |
 | [Workout Planner](https://github.com/MannGohil18/L85-Workout-Planner) | [@MannGohil18](https://github.com/MannGohil18) | Bash |
 
 ### 🌐 UDP (3)

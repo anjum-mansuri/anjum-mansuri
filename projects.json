@@ -50,6 +50,30 @@
     "date": "2026-11-02"
   },
   {
+    "title": "Cafe Loyalty Points",
+    "repo": "khyati2007/E19_LL15_Linux_CafeLoyaltyPoint",
+    "url": "https://github.com/khyati2007/E19_LL15_Linux_CafeLoyaltyPoint",
+    "student": "khyati2007",
+    "student_url": "https://github.com/khyati2007",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
+  },
+  {
+    "title": "Canteen Counter",
+    "repo": "psaumya1008-eng/Linux-Canteen-Counter",
+    "url": "https://github.com/psaumya1008-eng/Linux-Canteen-Counter",
+    "student": "psaumya1008-eng",
+    "student_url": "https://github.com/psaumya1008-eng",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
+  },
+  {
     "title": "Code Line Counter",
     "repo": "i-dhruvsoni-tech/L40-code-line-counter",
     "url": "https://github.com/i-dhruvsoni-tech/L40-code-line-counter",
@@ -230,6 +254,18 @@
     "date": "2026-11-02"
   },
   {
+    "title": "Log Detective",
+    "repo": "srushtivala1-coder/Log-Detective",
+    "url": "https://github.com/srushtivala1-coder/Log-Detective",
+    "student": "srushtivala1-coder",
+    "student_url": "https://github.com/srushtivala1-coder",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
+  },
+  {
     "title": "Login Watch",
     "repo": "memonsabaa2508-ship-it/loginwatch-linux-shell",
     "url": "https://github.com/memonsabaa2508-ship-it/loginwatch-linux-shell",
@@ -310,6 +346,18 @@
     "date": "2026-11-02"
   },
   {
+    "title": "Order Tracker",
+    "repo": "dharmikp309/order_tracker_linux",
+    "url": "https://github.com/dharmikp309/order_tracker_linux",
+    "student": "dharmikp309",
+    "student_url": "https://github.com/dharmikp309",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
+  },
+  {
     "title": "Pocket Money Tracker",
     "repo": "voraviral522/Linux-PocketMoney-Project",
     "url": "https://github.com/voraviral522/Linux-PocketMoney-Project",
@@ -358,6 +406,18 @@
     "tech": "Bash",
     "description": "Linux project submission",
     "date": "2026-11-01"
+  },
+  {
+    "title": "Second-Hand Book Market",
+    "repo": "roshanimakwana89-art/Second-Hand-Book-Market",
+    "url": "https://github.com/roshanimakwana89-art/Second-Hand-Book-Market",
+    "student": "roshanimakwana89-art",
+    "student_url": "https://github.com/roshanimakwana89-art",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
   },
   {
     "title": "Sports Day Registration",
@@ -440,6 +500,18 @@
     "date": "2026-11-02"
   },
   {
+    "title": "WeatherScope",
+    "repo": "fatemakhojani103-blip/WeatherScope",
+    "url": "https://github.com/fatemakhojani103-blip/WeatherScope",
+    "student": "fatemakhojani103-blip",
+    "student_url": "https://github.com/fatemakhojani103-blip",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
+  },
+  {
     "title": "Workout Planner",
     "repo": "MannGohil18/L85-Workout-Planner",
     "url": "https://github.com/MannGohil18/L85-Workout-Planner",
@@ -470,6 +542,18 @@
     "date": "2026-10-30"
   },
   {
+    "title": "Card Fraud Catcher",
+    "repo": "jaimitp2011/Card_Fraud_Catcher",
+    "url": "https://github.com/jaimitp2011/Card_Fraud_Catcher",
+    "student": "jaimitp2011",
+    "student_url": "https://github.com/jaimitp2011",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
+  },
+  {
     "title": "Comeback Mobile Game Retention",
     "repo": "yasubsaiyed11/Comeback-Mobile-Game-Retention",
     "url": "https://github.com/yasubsaiyed11/Comeback-Mobile-Game-Retention",
@@ -498,6 +582,18 @@
     "tech": "Python · Jupyter",
     "description": "Sugar Check: Diabetes Predictor - ML-I Lab IMCA Sem V",
     "date": "2026-11-01"
+  },
+  {
+    "title": "Exam Glow-Up: Pass Predictor",
+    "repo": "suzyvohra/exam-glow-up-pass-predictor",
+    "url": "https://gitlab.com/suzyvohra/exam-glow-up-pass-predictor",
+    "student": "suzyvohra",
+    "student_url": "https://gitlab.com/suzyvohra",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
   },
   {
     "title": "Fake News Buster",
@@ -550,6 +646,18 @@
     "date": "2026-11-02"
   },
   {
+    "title": "Hotel Booking: Will They Cancel?",
+    "repo": "Deenaz.pathan67/hotel-booking-will-they-cancel",
+    "url": "https://gitlab.com/Deenaz.pathan67/hotel-booking-will-they-cancel",
+    "student": "Deenaz.pathan67",
+    "student_url": "https://gitlab.com/Deenaz.pathan67",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
+  },
+  {
     "title": "IPL: Does Winning the Toss Win the Match?",
     "repo": "Samiyap07/IPL-Does-Winning-the-Toss-Win-the-Match",
     "url": "https://github.com/Samiyap07/IPL-Does-Winning-the-Toss-Win-the-Match",
@@ -578,6 +686,18 @@
     "tech": "Python · Jupyter",
     "description": "",
     "date": "2026-10-30"
+  },
+  {
+    "title": "Loan Approval Predictor",
+    "repo": "Aasma_Chopda2411/ml_loan_approved_project",
+    "url": "https://gitlab.com/Aasma_Chopda2411/ml_loan_approved_project",
+    "student": "Aasma_Chopda2411",
+    "student_url": "https://gitlab.com/Aasma_Chopda2411",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
   },
   {
     "title": "Loan Approval Predictor (P36)",
@@ -630,6 +750,18 @@
     "date": "2026-10-30"
   },
   {
+    "title": "ML Project (P26)",
+    "repo": "rasheshshrimankar-alt/ml-project",
+    "url": "https://github.com/rasheshshrimankar-alt/ml-project",
+    "student": "rasheshshrimankar-alt",
+    "student_url": "https://github.com/rasheshshrimankar-alt",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
+  },
+  {
     "title": "Penguin Species ID",
     "repo": "bilalh04-coder/penguin_species_id",
     "url": "https://github.com/bilalh04-coder/penguin_species_id",
@@ -680,6 +812,18 @@
     "date": "2026-11-02"
   },
   {
+    "title": "Should I Buy a Car?",
+    "repo": "dinkalshah619/Should_I_Buy_A_Car",
+    "url": "https://github.com/dinkalshah619/Should_I_Buy_A_Car",
+    "student": "dinkalshah619",
+    "student_url": "https://github.com/dinkalshah619",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
+  },
+  {
     "title": "Sleep Disorder Detector",
     "repo": "Aksha2512/Sleep-Disorder-Detector",
     "url": "https://github.com/Aksha2512/Sleep-Disorder-Detector",
@@ -688,6 +832,18 @@
     "tech": "Python · Jupyter",
     "description": "",
     "date": "2026-10-30"
+  },
+  {
+    "title": "Smart Farming",
+    "repo": "deeppavasiya15-ai/smart_farming",
+    "url": "https://github.com/deeppavasiya15-ai/smart_farming",
+    "student": "deeppavasiya15-ai",
+    "student_url": "https://github.com/deeppavasiya15-ai",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
   },
   {
     "title": "Smartwatch Activity Recognition",
@@ -708,6 +864,18 @@
     "tech": "Python · Jupyter",
     "description": "",
     "date": "2026-11-02"
+  },
+  {
+    "title": "Stroke Risk Radar",
+    "repo": "Princedarj/Stroke-Predction-ML",
+    "url": "https://github.com/Princedarj/Stroke-Predction-ML",
+    "student": "Princedarj",
+    "student_url": "https://github.com/Princedarj",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-03",
+    "source": "classroom"
   },
   {
     "title": "Tumour Tagger",
