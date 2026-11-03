@@ -20,6 +20,8 @@
 
 My PhD (GLS University, 2026), *"Gujarati Speech Analysis to Identify Emotional Sentiments using Machine Learning"*, built one of the first emotion-labelled speech datasets for Gujarati and a recognition pipeline for it.
 
+📘 **Full thesis (Shodhganga, INFLIBNET):** [hdl.handle.net/10603/695901](http://hdl.handle.net/10603/695901)
+
 - **GSED – Gujarati Speech Emotion Dataset:** 623 recordings · 27 speakers · 7 emotions · 4 dialect regions of Gujarat
 - **85.48% accuracy** in recognising emotions from Gujarati speech using acoustic features (MFCC, pitch, energy, openSMILE) with classical ML models
 - **Cross-lingual transfer learning** from English to Gujarati for low-resource speech emotion recognition
