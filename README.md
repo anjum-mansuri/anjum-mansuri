@@ -38,7 +38,6 @@ My PhD (GLS University, 2026), *"Gujarati Speech Analysis to Identify Emotional 
 
 🏆 **Best Paper Presentation Award**, ICRAECA 2023  
 📝 **Reviewer**, IEEE TEMSCON-ASPAC 2026  
-🎤 **Resource Person**, Faculty Development Programme, LJ University (2026)
 
 ## 🛠️ Featured Work
 
