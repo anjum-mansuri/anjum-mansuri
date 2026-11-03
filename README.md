@@ -10,6 +10,7 @@
   <a href="https://scholar.google.com/citations?hl=en&user=KVcNYF4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0000-0002-6371-9480"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://www.researchgate.net/profile/Anjum-Mansuri"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://vidwan.inflibnet.ac.in/profile/748193"><img src="https://img.shields.io/badge/Vidwan-748193-0B4F6C?style=flat" alt="Vidwan"></a>
   <img src="https://img.shields.io/badge/anjum.mansuri%40ljku.edu.in-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
 </p>
 
