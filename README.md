@@ -69,9 +69,9 @@ Machine Learning · Linux & Operating Systems · UDP · SQL / PL-SQL / Oracle ·
 Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every day.
 
 <!-- GUIDED:START -->
-**43 student projects guided** · ML · Linux · UDP · auto-updated daily
+**76 student projects guided** · ML · Linux · UDP · auto-updated daily
 
-### 🤖 Machine Learning (26)
+### 🤖 Machine Learning (28)
 
 | Project | Student | Tech |
 |---|---|---|
@@ -84,6 +84,7 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Fitness Grade (A to D)](https://github.com/janvi15032007/Fitness-Grade-A-to-D) | [@janvi15032007](https://github.com/janvi15032007) | Python · Jupyter |
 | [Gym Rat Level Prediction (KNN)](https://github.com/akpatel2029-ux/gym-rat-level-prediction-knn) | [@akpatel2029-ux](https://github.com/akpatel2029-ux) | Python · Jupyter |
 | [Heart Check](https://github.com/voranikki9-bot/P18-heart-check) | [@voranikki9-bot](https://github.com/voranikki9-bot) | Python · Jupyter |
+| [Heart Failure Survival](https://github.com/nupur1959/HERAT-FAILURE-SURVIVAL) | [@nupur1959](https://github.com/nupur1959) | Python · Jupyter |
 | [IPL: Does Winning the Toss Win the Match?](https://github.com/Samiyap07/IPL-Does-Winning-the-Toss-Win-the-Match) | [@Samiyap07](https://github.com/Samiyap07) | Python · Jupyter |
 | [Is This Water Safe to Drink?](https://github.com/sahilshaikh24267/Is-This-Water-Safe-to-Drink-) | [@sahilshaikh24267](https://github.com/sahilshaikh24267) | Python · Jupyter |
 | [Legendary or Not? Pokémon Classifier](https://github.com/Arshiya1007/Legendary-or-Not--Pok-mon-Classifier) | [@Arshiya1007](https://github.com/Arshiya1007) | Python · Jupyter |
@@ -101,32 +102,64 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Smartwatch Activity Recognition](https://github.com/feni007/B07-P25-smartwatch-activity-recognition) | [@feni007](https://github.com/feni007) | Python · Jupyter |
 | [Star, Galaxy or Quasar?](https://github.com/Boghrahani/Star-Galaxy-or-Quasar-) | [@Boghrahani](https://github.com/Boghrahani) | Python · Jupyter |
 | [Tumour Tagger](https://github.com/rushanshaikh0905-hub/Tumour_Tagger) | [@rushanshaikh0905-hub](https://github.com/rushanshaikh0905-hub) | Python · Jupyter |
+| [Video Game Hit Predictor](https://github.com/SamarSR7/B41_P10_video_gaem_hit_predicter) | [@SamarSR7](https://github.com/SamarSR7) | Python · Jupyter |
 
-### 🐧 Linux Shell Scripting (15)
+### 🐧 Linux Shell Scripting (45)
 
 | Project | Student | Tech |
 |---|---|---|
 | [Anime Episode Tracker](https://github.com/hardikshrimali1510-collab/anime-episode-tracker) | [@hardikshrimali1510-collab](https://github.com/hardikshrimali1510-collab) | Bash |
+| [Birthday Reminder Bot](https://github.com/falak-ansarii/F22_L36_Birthday_Reminder_Bot) | [@falak-ansarii](https://github.com/falak-ansarii) | Bash |
+| [Bulk Photo Renamer](https://github.com/joyalraval-alt/-Bulk-Photo-Renamer) | [@joyalraval-alt](https://github.com/joyalraval-alt) | Bash |
 | [Bunk Calculator](https://github.com/Yagna192006/bunk-calculator) | [@Yagna192006](https://github.com/Yagna192006) | Bash |
+| [Bus Pass Validity Check](https://github.com/viditashah2901/buss-pass-validity-check) | [@viditashah2901](https://github.com/viditashah2901) | Bash |
+| [Code Line Counter](https://github.com/i-dhruvsoni-tech/L40-code-line-counter) | [@i-dhruvsoni-tech](https://github.com/i-dhruvsoni-tech) | Bash |
+| [Concert Seats](https://github.com/juned-ansarii/concertseats) | [@juned-ansarii](https://github.com/juned-ansarii) | Bash |
+| [Contact Book](https://github.com/kakar4t-xe/contact-book-in-linux) | [@kakar4t-xe](https://github.com/kakar4t-xe) | Bash |
+| [Content Calendar](https://github.com/ronak960/Content_calander) | [@ronak960](https://github.com/ronak960) | Bash |
 | [Deadline Radar](https://github.com/ambaliyalarohan-ctrl/Deadline-Radar) | [@ambaliyalarohan-ctrl](https://github.com/ambaliyalarohan-ctrl) | Bash |
+| [Duplicate File Finder](https://github.com/Shah-Priyansh-29/dupfinder) | [@Shah-Priyansh-29](https://github.com/Shah-Priyansh-29) | Bash |
+| [EMI Calculator](https://github.com/NevilPatel-22/L88-EMI-Calculator) | [@NevilPatel-22](https://github.com/NevilPatel-22) | Bash |
+| [Event RSVP Manager](https://github.com/hamzavora17/event-rsvp-manager) | [@hamzavora17](https://github.com/hamzavora17) | Bash |
+| [Exam Seat Planner](https://github.com/Tanvi1811/Exam-Seat-Planner) | [@Tanvi1811](https://github.com/Tanvi1811) | Bash |
+| [Fare Calculator](https://github.com/HadiMomin/farecalc) | [@HadiMomin](https://github.com/HadiMomin) | Bash |
 | [Game Library Manager](https://github.com/rajdeep576/game-library-manager) | [@rajdeep576](https://github.com/rajdeep576) | Bash |
 | [Group Chat Analyzer](https://github.com/archipatel04112006/L35-Group-Chat-Analyzer) | [@archipatel04112006](https://github.com/archipatel04112006) | Bash |
+| [GST Bill Generator](https://github.com/kaushal-24/GST-Bill-Generator) | [@kaushal-24](https://github.com/kaushal-24) | Bash |
 | [Guess The Number Pro](https://github.com/PurvanshDarji/GuessTheNumberPro) | [@PurvanshDarji](https://github.com/PurvanshDarji) | Bash |
 | [Habit Tracker](https://github.com/divya1208rathod-web/H36-L106-Habit-Tracker) | [@divya1208rathod-web](https://github.com/divya1208rathod-web) | Bash |
+| [Hydration Reminder](https://github.com/monanzasandhi81-alt/linux-hydration-reminder) | [@monanzasandhi81-alt](https://github.com/monanzasandhi81-alt) | Bash |
 | [Lab Register](https://github.com/maitri566/lab-register) | [@maitri566](https://github.com/maitri566) | Bash |
+| [Leaderboard](https://github.com/parilgohilclg/Leaderboard) | [@parilgohilclg](https://github.com/parilgohilclg) | Bash |
+| [Login Watch](https://github.com/memonsabaa2508-ship-it/loginwatch-linux-shell) | [@memonsabaa2508-ship-it](https://github.com/memonsabaa2508-ship-it) | Bash |
+| [Lyrics Finder](https://github.com/nivhirpara250-hue/LyricsFinder) | [@nivhirpara250-hue](https://github.com/nivhirpara250-hue) | Bash |
+| [Marks Tracker](https://github.com/Vedika185/MarksTracker) | [@Vedika185](https://github.com/Vedika185) | Bash |
 | [Meal Planner](https://github.com/afifamansuri-011/L26-meal-planner) | [@afifamansuri-011](https://github.com/afifamansuri-011) | Bash |
 | [Medicine Reminder](https://github.com/nishika-28007/Medicine-Reminder-L84) | [@nishika-28007](https://github.com/nishika-28007) | Bash |
 | [Mood Journal](https://github.com/himanigohel14-debug/L51-Mood-Journal) | [@himanigohel14-debug](https://github.com/himanigohel14-debug) | Bash |
+| [NotesVault](https://github.com/arsheemotani1908/NotesVault_GitHub_Complete) | [@arsheemotani1908](https://github.com/arsheemotani1908) | Bash |
+| [Notice Board Management System](https://github.com/raviram2882005/Ubantu-linux-project) | [@raviram2882005](https://github.com/raviram2882005) | Bash |
+| [Pocket Money Tracker](https://github.com/voraviral522/Linux-PocketMoney-Project) | [@voraviral522](https://github.com/voraviral522) | Bash |
 | [Price Drop Watcher](https://github.com/shreyansh6868/Price-Drop-Watcher) | [@shreyansh6868](https://github.com/shreyansh6868) | Bash |
+| [Reading List Tracker](https://github.com/ubhatt502/Reading-List-Tracker) | [@ubhatt502](https://github.com/ubhatt502) | Bash |
 | [Result Vibe](https://github.com/Kuldeepsingh-coder/Result_vibe) | [@Kuldeepsingh-coder](https://github.com/Kuldeepsingh-coder) | Bash |
 | [RPS Arena (Rock Paper Scissors)](https://github.com/TarunGadhvi/Linux_Project_B08_L17_RPSARENA) | [@TarunGadhvi](https://github.com/TarunGadhvi) | Bash |
+| [Sports Day Registration](https://github.com/stdved8181patel-source/sports-day-registration) | [@stdved8181patel-source](https://github.com/stdved8181patel-source) | Bash |
 | [Step Streak](https://github.com/srushti281106/step-streak) | [@srushti281106](https://github.com/srushti281106) | Bash |
+| [Stock Alert](https://github.com/patoliyajenish001-web/stockalert) | [@patoliyajenish001-web](https://github.com/patoliyajenish001-web) | Bash |
+| [Subdomain Tracker](https://github.com/paghdarmihir-gif/setup_subtracker) | [@paghdarmihir-gif](https://github.com/paghdarmihir-gif) | Bash |
+| [System Info Dashboard](https://github.com/chitaliyajanu09/LINUX_PROJECT_System-Info-Dashboard) | [@chitaliyajanu09](https://github.com/chitaliyajanu09) | Bash |
+| [Terminal Quiz Battle](https://github.com/1708prachi/terminal-quiz-battle) | [@1708prachi](https://github.com/1708prachi) | Bash |
+| [Tic-Tac-Toe](https://github.com/umarsaiyed001/L75_TicTacToe) | [@umarsaiyed001](https://github.com/umarsaiyed001) | Bash |
+| [Watchlist Manager](https://github.com/zarmin115/Linux-Watchlist-Manager) | [@zarmin115](https://github.com/zarmin115) | Bash |
+| [Workout Planner](https://github.com/MannGohil18/L85-Workout-Planner) | [@MannGohil18](https://github.com/MannGohil18) | Bash |
 
-### 🌐 UDP (2)
+### 🌐 UDP (3)
 
 | Project | Student | Tech |
 |---|---|---|
 | [Medicine Reminder App](https://github.com/Nahiyan00035/medicine-reminder-app) | [@Nahiyan00035](https://github.com/Nahiyan00035) | Flutter |
+| [MediKit](https://github.com/maitri566/medikit_udp) | [@maitri566](https://github.com/maitri566) | App |
 | [Tofu: YouTube-style Video Platform](https://github.com/TarunGadhvi/Tofu-YouTube-Clone) | [@TarunGadhvi](https://github.com/TarunGadhvi) | Next.js · TypeScript |
 <!-- GUIDED:END -->
 

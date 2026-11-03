@@ -11,6 +11,23 @@ def search(q):
 import urllib.parse, time
 QUERIES = [f"{USER} in:readme", '"Anjum Y. Mansuri" in:readme', '"Anjum Mansuri" in:readme', f"topic:guided-by-{USER}"]
 items = {}
+def readme(full):
+    for b in ("main", "master"):
+        try: return urllib.request.urlopen(f"https://raw.githubusercontent.com/{full}/{b}/README.md").read().decode("utf-8", "ignore").lower()
+        except Exception: pass
+    return ""
+def classify(r):
+    lang = r["language"] or ""
+    text = " ".join([r["name"], r["description"] or "", " ".join(r["topics"])]).lower()
+    if "udp" in text: return "UDP", lang or "Web"
+    if lang == "Shell" or any(k in text for k in ("linux", "bash", "shell", "ubuntu", "ubantu")): return "Linux Shell Scripting", "Bash"
+    if lang in ("Jupyter Notebook", "Python") or any(k in text for k in ("machine-learning", "machine learning", " ml ", "predict", "classifier")): return "Machine Learning", "Python · Jupyter"
+    rd = readme(r["full_name"])
+    if "udp" in rd: return "UDP", lang or "Web"
+    if "linux" in rd or "bash" in rd: return "Linux Shell Scripting", "Bash"
+    if "machine learning" in rd or "ml-i" in rd or "jupyter" in rd: return "Machine Learning", "Python · Jupyter"
+    if lang in ("TypeScript", "JavaScript", "Dart", "HTML", "PHP", "CSS", "Java"): return "UDP", lang
+    return "Machine Learning", lang or "Python"
 for q in QUERIES:
     for r in search(urllib.parse.quote(q)):
         items[r["full_name"]] = r
@@ -21,11 +38,9 @@ out = [p for n, p in old.items() if n not in items and n not in excluded]
 for name, r in items.items():
     if r["owner"]["login"] in SKIP_OWNERS or name in excluded or r["fork"]: continue
     if name in old: out.append(old[name]); continue          # keep hand-edited titles
-    t = r["topics"]; desc = (r["description"] or "").lower()
-    if r["language"] == "Shell" or "linux-shell" in t or "linux" in desc: course, tech = "Linux Shell Scripting", "Bash"
-    elif "udp" in t or "udp" in desc or r["language"] in ("TypeScript", "JavaScript", "Dart", "HTML", "PHP"): course, tech = "UDP", r["language"] or ""
-    else: course, tech = "Machine Learning", "Python · Jupyter"
-    title = re.sub(r"^((?:[A-Za-z]\d+)[-_ ]+)+", "", r["name"])   # drop codes like L26-, B07-P25-, H36-L106-
+    course, tech = classify(r)
+    title = re.sub(r"^[-_ ]*((?:[A-Za-z]\d+)[-_ ]+)+", "", r["name"]).strip("-_ ")   # drop codes like L26-, B07-P25-, F22_L36_
+    title = re.sub(r"^(linux|ubantu|ubuntu)[-_ ]+(project[-_ ]+)?", "", title, flags=re.I)
     title = re.sub(r"[-_]+", " ", title).strip()
     title = " ".join(w if w.isupper() else w[:1].upper() + w[1:] for w in title.split())
     out.append({"title": title, "repo": name, "url": r["html_url"], "student": r["owner"]["login"],

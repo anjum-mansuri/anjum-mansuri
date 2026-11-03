@@ -10,6 +10,26 @@
     "date": "2026-11-02"
   },
   {
+    "title": "Birthday Reminder Bot",
+    "repo": "falak-ansarii/F22_L36_Birthday_Reminder_Bot",
+    "url": "https://github.com/falak-ansarii/F22_L36_Birthday_Reminder_Bot",
+    "student": "falak-ansarii",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Bulk Photo Renamer",
+    "repo": "joyalraval-alt/-Bulk-Photo-Renamer",
+    "url": "https://github.com/joyalraval-alt/-Bulk-Photo-Renamer",
+    "student": "joyalraval-alt",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
     "title": "Bunk Calculator",
     "repo": "Yagna192006/bunk-calculator",
     "url": "https://github.com/Yagna192006/bunk-calculator",
@@ -20,6 +40,56 @@
     "date": "2026-10-30"
   },
   {
+    "title": "Bus Pass Validity Check",
+    "repo": "viditashah2901/buss-pass-validity-check",
+    "url": "https://github.com/viditashah2901/buss-pass-validity-check",
+    "student": "viditashah2901",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Code Line Counter",
+    "repo": "i-dhruvsoni-tech/L40-code-line-counter",
+    "url": "https://github.com/i-dhruvsoni-tech/L40-code-line-counter",
+    "student": "i-dhruvsoni-tech",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "linux project",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Concert Seats",
+    "repo": "juned-ansarii/concertseats",
+    "url": "https://github.com/juned-ansarii/concertseats",
+    "student": "juned-ansarii",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Contact Book",
+    "repo": "kakar4t-xe/contact-book-in-linux",
+    "url": "https://github.com/kakar4t-xe/contact-book-in-linux",
+    "student": "kakar4t-xe",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Content Calendar",
+    "repo": "ronak960/Content_calander",
+    "url": "https://github.com/ronak960/Content_calander",
+    "student": "ronak960",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "content celender",
+    "date": "2026-11-02"
+  },
+  {
     "title": "Deadline Radar",
     "repo": "ambaliyalarohan-ctrl/Deadline-Radar",
     "url": "https://github.com/ambaliyalarohan-ctrl/Deadline-Radar",
@@ -27,6 +97,56 @@
     "course": "Linux Shell Scripting",
     "tech": "Bash",
     "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Duplicate File Finder",
+    "repo": "Shah-Priyansh-29/dupfinder",
+    "url": "https://github.com/Shah-Priyansh-29/dupfinder",
+    "student": "Shah-Priyansh-29",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "EMI Calculator",
+    "repo": "NevilPatel-22/L88-EMI-Calculator",
+    "url": "https://github.com/NevilPatel-22/L88-EMI-Calculator",
+    "student": "NevilPatel-22",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux Based EMI Calculator Project",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Event RSVP Manager",
+    "repo": "hamzavora17/event-rsvp-manager",
+    "url": "https://github.com/hamzavora17/event-rsvp-manager",
+    "student": "hamzavora17",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "IMCA Semester 5 Linux Project.",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Exam Seat Planner",
+    "repo": "Tanvi1811/Exam-Seat-Planner",
+    "url": "https://github.com/Tanvi1811/Exam-Seat-Planner",
+    "student": "Tanvi1811",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "A Linux-based Exam Seat Planning System using Shell Scripting.",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Fare Calculator",
+    "repo": "HadiMomin/farecalc",
+    "url": "https://github.com/HadiMomin/farecalc",
+    "student": "HadiMomin",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "iasofjoawfjoj",
     "date": "2026-11-02"
   },
   {
@@ -50,6 +170,16 @@
     "date": "2026-10-31"
   },
   {
+    "title": "GST Bill Generator",
+    "repo": "kaushal-24/GST-Bill-Generator",
+    "url": "https://github.com/kaushal-24/GST-Bill-Generator",
+    "student": "kaushal-24",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "BCA Semester 5 Linux Mini Project.",
+    "date": "2026-11-02"
+  },
+  {
     "title": "Guess The Number Pro",
     "repo": "PurvanshDarji/GuessTheNumberPro",
     "url": "https://github.com/PurvanshDarji/GuessTheNumberPro",
@@ -70,6 +200,16 @@
     "date": "2026-11-02"
   },
   {
+    "title": "Hydration Reminder",
+    "repo": "monanzasandhi81-alt/linux-hydration-reminder",
+    "url": "https://github.com/monanzasandhi81-alt/linux-hydration-reminder",
+    "student": "monanzasandhi81-alt",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux Hydration Reminder Project",
+    "date": "2026-11-02"
+  },
+  {
     "title": "Lab Register",
     "repo": "maitri566/lab-register",
     "url": "https://github.com/maitri566/lab-register",
@@ -78,6 +218,46 @@
     "tech": "Bash",
     "description": "",
     "date": "2026-10-30"
+  },
+  {
+    "title": "Leaderboard",
+    "repo": "parilgohilclg/Leaderboard",
+    "url": "https://github.com/parilgohilclg/Leaderboard",
+    "student": "parilgohilclg",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Ubantu linux project",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Login Watch",
+    "repo": "memonsabaa2508-ship-it/loginwatch-linux-shell",
+    "url": "https://github.com/memonsabaa2508-ship-it/loginwatch-linux-shell",
+    "student": "memonsabaa2508-ship-it",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Lyrics Finder",
+    "repo": "nivhirpara250-hue/LyricsFinder",
+    "url": "https://github.com/nivhirpara250-hue/LyricsFinder",
+    "student": "nivhirpara250-hue",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "L73 - Lyrics Finder | Linux Bash Shell Script Project",
+    "date": "2026-11-01"
+  },
+  {
+    "title": "Marks Tracker",
+    "repo": "Vedika185/MarksTracker",
+    "url": "https://github.com/Vedika185/MarksTracker",
+    "student": "Vedika185",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
   },
   {
     "title": "Meal Planner",
@@ -110,6 +290,36 @@
     "date": "2026-11-01"
   },
   {
+    "title": "NotesVault",
+    "repo": "arsheemotani1908/NotesVault_GitHub_Complete",
+    "url": "https://github.com/arsheemotani1908/NotesVault_GitHub_Complete",
+    "student": "arsheemotani1908",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Notice Board Management System",
+    "repo": "raviram2882005/Ubantu-linux-project",
+    "url": "https://github.com/raviram2882005/Ubantu-linux-project",
+    "student": "raviram2882005",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux Notice Board Management System using Bash",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Pocket Money Tracker",
+    "repo": "voraviral522/Linux-PocketMoney-Project",
+    "url": "https://github.com/voraviral522/Linux-PocketMoney-Project",
+    "student": "voraviral522",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux project for college assignment.",
+    "date": "2026-11-01"
+  },
+  {
     "title": "Price Drop Watcher",
     "repo": "shreyansh6868/Price-Drop-Watcher",
     "url": "https://github.com/shreyansh6868/Price-Drop-Watcher",
@@ -118,6 +328,16 @@
     "tech": "Bash",
     "description": "",
     "date": "2026-11-01"
+  },
+  {
+    "title": "Reading List Tracker",
+    "repo": "ubhatt502/Reading-List-Tracker",
+    "url": "https://github.com/ubhatt502/Reading-List-Tracker",
+    "student": "ubhatt502",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "L107 - Reading List Tracker using Linux Shell Scripting",
+    "date": "2026-11-02"
   },
   {
     "title": "Result Vibe",
@@ -140,6 +360,16 @@
     "date": "2026-11-01"
   },
   {
+    "title": "Sports Day Registration",
+    "repo": "stdved8181patel-source/sports-day-registration",
+    "url": "https://github.com/stdved8181patel-source/sports-day-registration",
+    "student": "stdved8181patel-source",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Menu-driven Linux shell script to register students for sports day events, block duplicate entries, count players per event, list houses, create winner certificates and run a daily crontab backup.",
+    "date": "2026-11-02"
+  },
+  {
     "title": "Step Streak",
     "repo": "srushti281106/step-streak",
     "url": "https://github.com/srushti281106/step-streak",
@@ -148,6 +378,76 @@
     "tech": "Bash",
     "description": "Linux Bash project for tracking daily steps, calculating streaks, generating reports and creating backups.",
     "date": "2026-10-31"
+  },
+  {
+    "title": "Stock Alert",
+    "repo": "patoliyajenish001-web/stockalert",
+    "url": "https://github.com/patoliyajenish001-web/stockalert",
+    "student": "patoliyajenish001-web",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "This project was completed under the guidance of Dr. Anjum Y. Mansuri, Assistant Professor, Computer Applications, LJ Institute of Computer Applications, LJ University, Ahmedabad. OS Linux Lab 260120510 | Project ID: L92",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Subdomain Tracker",
+    "repo": "paghdarmihir-gif/setup_subtracker",
+    "url": "https://github.com/paghdarmihir-gif/setup_subtracker",
+    "student": "paghdarmihir-gif",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "A Linux Shell project for automating subdomain tracking and setup tasks using Bash scripting.",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "System Info Dashboard",
+    "repo": "chitaliyajanu09/LINUX_PROJECT_System-Info-Dashboard",
+    "url": "https://github.com/chitaliyajanu09/LINUX_PROJECT_System-Info-Dashboard",
+    "student": "chitaliyajanu09",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux System Info Dashboard using Bash scripting",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Terminal Quiz Battle",
+    "repo": "1708prachi/terminal-quiz-battle",
+    "url": "https://github.com/1708prachi/terminal-quiz-battle",
+    "student": "1708prachi",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "A Linux Terminal Quiz Game developed using Bash Shell Scripting",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Tic-Tac-Toe",
+    "repo": "umarsaiyed001/L75_TicTacToe",
+    "url": "https://github.com/umarsaiyed001/L75_TicTacToe",
+    "student": "umarsaiyed001",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "A Bash-based Tic-Tac-Toe CLI game developed on Ubuntu Linux with gameplay, winner detection, result tracking, file handling, automated backups, activity logs, and cron-based reports.",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Watchlist Manager",
+    "repo": "zarmin115/Linux-Watchlist-Manager",
+    "url": "https://github.com/zarmin115/Linux-Watchlist-Manager",
+    "student": "zarmin115",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "A Linux-based terminal watchlist manager using Bash scripting and Linux commands.",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Workout Planner",
+    "repo": "MannGohil18/L85-Workout-Planner",
+    "url": "https://github.com/MannGohil18/L85-Workout-Planner",
+    "student": "MannGohil18",
+    "course": "Linux Shell Scripting",
+    "tech": "Bash",
+    "description": "Linux-Based Workout Planner Using Bash Shell Scripting",
+    "date": "2026-11-02"
   },
   {
     "title": "Asteroid Hazard Classifier",
@@ -238,6 +538,16 @@
     "tech": "Python · Jupyter",
     "description": "",
     "date": "2026-11-01"
+  },
+  {
+    "title": "Heart Failure Survival",
+    "repo": "nupur1959/HERAT-FAILURE-SURVIVAL",
+    "url": "https://github.com/nupur1959/HERAT-FAILURE-SURVIVAL",
+    "student": "nupur1959",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-02"
   },
   {
     "title": "IPL: Does Winning the Toss Win the Match?",
@@ -410,6 +720,16 @@
     "date": "2026-10-30"
   },
   {
+    "title": "Video Game Hit Predictor",
+    "repo": "SamarSR7/B41_P10_video_gaem_hit_predicter",
+    "url": "https://github.com/SamarSR7/B41_P10_video_gaem_hit_predicter",
+    "student": "SamarSR7",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "\"video game hit predictor\",  lj-university, imca, and machine-learning (ML students)",
+    "date": "2026-11-02"
+  },
+  {
     "title": "Medicine Reminder App",
     "repo": "Nahiyan00035/medicine-reminder-app",
     "url": "https://github.com/Nahiyan00035/medicine-reminder-app",
@@ -418,6 +738,16 @@
     "tech": "Flutter",
     "description": "",
     "date": "2026-11-01"
+  },
+  {
+    "title": "MediKit",
+    "repo": "maitri566/medikit_udp",
+    "url": "https://github.com/maitri566/medikit_udp",
+    "student": "maitri566",
+    "course": "UDP",
+    "tech": "App",
+    "description": "",
+    "date": "2026-11-02"
   },
   {
     "title": "Tofu: YouTube-style Video Platform",
