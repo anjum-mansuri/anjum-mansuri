@@ -522,6 +522,16 @@
     "date": "2026-11-02"
   },
   {
+    "title": "Anime Rating Prediction",
+    "repo": "DEVSHARMA1021/anime-rating-prediction",
+    "url": "https://github.com/DEVSHARMA1021/anime-rating-prediction",
+    "student": "DEVSHARMA1021",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "",
+    "date": "2026-11-03"
+  },
+  {
     "title": "Asteroid Hazard Classifier",
     "repo": "khushi082005-n/asteroid-hazard-classifier",
     "url": "https://github.com/khushi082005-n/asteroid-hazard-classifier",
@@ -916,6 +926,17 @@
     "course": "UDP",
     "tech": "Flutter",
     "description": "",
+    "date": "2026-11-03",
+    "source": "whatsapp"
+  },
+  {
+    "title": "FindLocals: Local Services Platform",
+    "repo": "khyati2007/FindLocals_UDP",
+    "url": "https://github.com/khyati2007/FindLocals_UDP",
+    "student": "khyati2007",
+    "course": "UDP",
+    "tech": "Web",
+    "description": "A service-based platform connecting customers with local workers.",
     "date": "2026-11-03",
     "source": "whatsapp"
   },

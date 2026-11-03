@@ -68,12 +68,13 @@ Machine Learning · Linux & Operating Systems · UDP · SQL / PL-SQL / Oracle ·
 Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every day.
 
 <!-- GUIDED:START -->
-**94 student projects guided** · ML · Linux · UDP · auto-updated daily
+**96 student projects guided** · ML · Linux · UDP · auto-updated daily
 
-### 🤖 Machine Learning (36)
+### 🤖 Machine Learning (37)
 
 | Project | Student | Tech |
 |---|---|---|
+| [Anime Rating Prediction](https://github.com/DEVSHARMA1021/anime-rating-prediction) | [@DEVSHARMA1021](https://github.com/DEVSHARMA1021) | Python · Jupyter |
 | [Asteroid Hazard Classifier](https://github.com/khushi082005-n/asteroid-hazard-classifier) | [@khushi082005-n](https://github.com/khushi082005-n) | Python · Jupyter |
 | [Banger or Not? Song Hit Predictor](https://github.com/krishpatel99797/Ml---Model-) | [@krishpatel99797](https://github.com/krishpatel99797) | Python · Jupyter |
 | [Card Fraud Catcher](https://github.com/jaimitp2011/Card_Fraud_Catcher) | [@jaimitp2011](https://github.com/jaimitp2011) | Python · Jupyter |
@@ -167,12 +168,13 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [WeatherScope](https://github.com/fatemakhojani103-blip/WeatherScope) | [@fatemakhojani103-blip](https://github.com/fatemakhojani103-blip) | Bash |
 | [Workout Planner](https://github.com/MannGohil18/L85-Workout-Planner) | [@MannGohil18](https://github.com/MannGohil18) | Bash |
 
-### 🌐 UDP (7)
+### 🌐 UDP (8)
 
 | Project | Student | Tech |
 |---|---|---|
 | [Beamers Legacy: BMW Dealership](https://github.com/ParilGohil/Beamers-Legacy) | [@ParilGohil](https://github.com/ParilGohil) | PHP · MySQL |
 | [CityFix](https://github.com/gw-tirth/CityFix-) | [@gw-tirth](https://github.com/gw-tirth) | Flutter |
+| [FindLocals: Local Services Platform](https://github.com/khyati2007/FindLocals_UDP) | [@khyati2007](https://github.com/khyati2007) | Web |
 | [HealNest: Family Health Tracker](https://github.com/rajpurohitshaktisingh69-create/UDP_G_13) | [@rajpurohitshaktisingh69-create](https://github.com/rajpurohitshaktisingh69-create) | PHP · MySQL |
 | [LifeCare: Hospital Management](https://github.com/manngohil018-create/lifecare) | [@manngohil018-create](https://github.com/manngohil018-create) | Laravel · PHP |
 | [Medicine Reminder App](https://github.com/Nahiyan00035/medicine-reminder-app) | [@Nahiyan00035](https://github.com/Nahiyan00035) | Flutter |
