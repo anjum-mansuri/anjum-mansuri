@@ -1,4 +1,4 @@
-<h1 align="center">Dr. Anjum Y. Mansuri</h1>
+<h1 align="center">Dr. Anjum Mansuri</h1>
 <p align="center">
   <b>Assistant Professor, Computer Applications</b> · LJ Institute of Computer Applications, LJ University, Ahmedabad<br>
   PhD (Machine Learning) · Speech Emotion Recognition for Gujarati and low-resource Indian languages
