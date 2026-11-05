@@ -73,7 +73,7 @@ Machine Learning · Linux & Operating Systems · UDP · SQL / PL-SQL / Oracle ·
 Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every day.
 
 <!-- GUIDED:START -->
-**96 student projects guided** · ML · Linux · UDP · auto-updated daily
+**97 student projects guided** · ML · Linux · UDP · auto-updated daily
 
 ### 🤖 Machine Learning (37)
 
@@ -173,12 +173,13 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [WeatherScope](https://github.com/fatemakhojani103-blip/WeatherScope) | [@fatemakhojani103-blip](https://github.com/fatemakhojani103-blip) | Bash |
 | [Workout Planner](https://github.com/MannGohil18/L85-Workout-Planner) | [@MannGohil18](https://github.com/MannGohil18) | Bash |
 
-### 🌐 UDP (8)
+### 🌐 UDP (9)
 
 | Project | Student | Tech |
 |---|---|---|
 | [Beamers Legacy: BMW Dealership](https://github.com/ParilGohil/Beamers-Legacy) | [@ParilGohil](https://github.com/ParilGohil) | PHP · MySQL |
 | [CityFix](https://github.com/gw-tirth/CityFix-) | [@gw-tirth](https://github.com/gw-tirth) | Flutter |
+| [Eleve Clothing Ecommerce](https://github.com/jaimisha15/Eleve-clothing-ecommerce) | [@jaimisha15](https://github.com/jaimisha15) | PHP |
 | [FindLocals: Local Services Platform](https://github.com/khyati2007/FindLocals_UDP) | [@khyati2007](https://github.com/khyati2007) | Web |
 | [HealNest: Family Health Tracker](https://github.com/rajpurohitshaktisingh69-create/UDP_G_13) | [@rajpurohitshaktisingh69-create](https://github.com/rajpurohitshaktisingh69-create) | PHP · MySQL |
 | [LifeCare: Hospital Management](https://github.com/manngohil018-create/lifecare) | [@manngohil018-create](https://github.com/manngohil018-create) | Laravel · PHP |
