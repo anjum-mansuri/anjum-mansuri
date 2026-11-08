@@ -73,9 +73,9 @@ Machine Learning · Linux & Operating Systems · UDP · SQL / PL-SQL / Oracle ·
 Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every day.
 
 <!-- GUIDED:START -->
-**97 student projects guided** · ML · Linux · UDP · auto-updated daily
+**98 student projects guided** · ML · Linux · UDP · auto-updated daily
 
-### 🤖 Machine Learning (37)
+### 🤖 Machine Learning (38)
 
 | Project | Student | Tech |
 |---|---|---|
@@ -85,6 +85,7 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Card Fraud Catcher](https://github.com/jaimitp2011/Card_Fraud_Catcher) | [@jaimitp2011](https://github.com/jaimitp2011) | Python · Jupyter |
 | [Comeback Mobile Game Retention](https://github.com/yasubsaiyed11/Comeback-Mobile-Game-Retention) | [@yasubsaiyed11](https://github.com/yasubsaiyed11) | Python · Jupyter |
 | [Credit Score](https://github.com/Bhavik0001/credit_score) | [@Bhavik0001](https://github.com/Bhavik0001) | Python · Jupyter |
+| [Developer Portfolios](https://github.com/emmabostian/developer-portfolios) | [@emmabostian](https://github.com/emmabostian) | Python · Jupyter |
 | [Diabetes Predictor](https://github.com/pratiksavaliya2007-hue/diabetes-predictor) | [@pratiksavaliya2007-hue](https://github.com/pratiksavaliya2007-hue) | Python · Jupyter |
 | [Exam Glow-Up: Pass Predictor](https://gitlab.com/suzyvohra/exam-glow-up-pass-predictor) | [@suzyvohra](https://gitlab.com/suzyvohra) | Python · Jupyter |
 | [Fake News Buster](https://github.com/mittupatel269-netizen/Fake-News-Buster-) | [@mittupatel269-netizen](https://github.com/mittupatel269-netizen) | Python · Jupyter |

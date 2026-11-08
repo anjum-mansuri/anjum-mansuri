@@ -584,6 +584,16 @@
     "date": "2026-10-30"
   },
   {
+    "title": "Developer Portfolios",
+    "repo": "emmabostian/developer-portfolios",
+    "url": "https://github.com/emmabostian/developer-portfolios",
+    "student": "emmabostian",
+    "course": "Machine Learning",
+    "tech": "Python · Jupyter",
+    "description": "A list of developer portfolios for your inspiration",
+    "date": "2019-09-13"
+  },
+  {
     "title": "Diabetes Predictor",
     "repo": "pratiksavaliya2007-hue/diabetes-predictor",
     "url": "https://github.com/pratiksavaliya2007-hue/diabetes-predictor",
