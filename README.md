@@ -73,7 +73,7 @@ Machine Learning · Linux & Operating Systems · UDP · SQL / PL-SQL / Oracle ·
 Student projects built under my guidance at LJ University. Each one credits me as Project Guide in its README. This list updates itself every day.
 
 <!-- GUIDED:START -->
-**98 student projects guided** · ML · Linux · UDP · auto-updated daily
+**99 student projects guided** · ML · Linux · UDP · auto-updated daily
 
 ### 🤖 Machine Learning (38)
 
@@ -118,7 +118,7 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Tumour Tagger](https://github.com/rushanshaikh0905-hub/Tumour_Tagger) | [@rushanshaikh0905-hub](https://github.com/rushanshaikh0905-hub) | Python · Jupyter |
 | [Video Game Hit Predictor](https://github.com/SamarSR7/B41_P10_video_gaem_hit_predicter) | [@SamarSR7](https://github.com/SamarSR7) | Python · Jupyter |
 
-### 🐧 Linux Shell Scripting (51)
+### 🐧 Linux Shell Scripting (52)
 
 | Project | Student | Tech |
 |---|---|---|
@@ -134,6 +134,7 @@ Student projects built under my guidance at LJ University. Each one credits me a
 | [Contact Book](https://github.com/kakar4t-xe/contact-book-in-linux) | [@kakar4t-xe](https://github.com/kakar4t-xe) | Bash |
 | [Content Calendar](https://github.com/ronak960/Content_calander) | [@ronak960](https://github.com/ronak960) | Bash |
 | [Deadline Radar](https://github.com/ambaliyalarohan-ctrl/Deadline-Radar) | [@ambaliyalarohan-ctrl](https://github.com/ambaliyalarohan-ctrl) | Bash |
+| [Developer Portfolios](https://github.com/Arpan-Dey-Web/Developer-Portfolios) | [@Arpan-Dey-Web](https://github.com/Arpan-Dey-Web) | Bash |
 | [Duplicate File Finder](https://github.com/Shah-Priyansh-29/dupfinder) | [@Shah-Priyansh-29](https://github.com/Shah-Priyansh-29) | Bash |
 | [EMI Calculator](https://github.com/NevilPatel-22/L88-EMI-Calculator) | [@NevilPatel-22](https://github.com/NevilPatel-22) | Bash |
 | [Event RSVP Manager](https://github.com/hamzavora17/event-rsvp-manager) | [@hamzavora17](https://github.com/hamzavora17) | Bash |
